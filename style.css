@@ -1,0 +1,250 @@
+#home_page{
+      background-image: url("https://static.vecteezy.com/system/resources/previews/057/332/489/non_2x/sunlight-filters-through-a-lush-forest-canopy-illuminating-a-vibrant-green-landscape-with-dappled-light-and-creating-a-serene-atmosphere-free-photo.jpg");
+      background-size: cover;
+}
+
+#home_header{
+      background-color:rgba(0,0,0,0.8);
+      padding: 20px;
+      color:cornsilk;
+      text-align: center;
+      font-family: Horizon;
+}
+
+.home_subheading{
+      text-align: center;
+      font-family:Horizon;
+      color:darkolivegreen;
+      padding:25px;
+      text-shadow:0 0 10px white;
+      font-weight: 300;
+}
+
+#home_page nav a {
+      text-shadow: 2px 2px 2px darkolivegreen;
+}
+.home_content{  
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding-top: 8px;
+      padding-right: 200px;
+      padding-left: 80px;
+      gap:20px;
+}
+
+.home_image{
+      height: 250x;
+      width: 250px;
+}
+
+.home_text{
+      background-color:rgba(0, 0, 0, 0.5);
+      border-radius: 30px;
+      border-style: solid;
+      border-color:  darkolivegreen;
+      padding: 20px;
+      max-width:400px;
+      text-align: center;
+      font-size: large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: cornsilk;
+}
+.home_text a{
+      color:forestgreen;
+}
+
+.allheader nav{
+      display:flex;
+      justify-content: center;
+      align-items: center;
+      gap: 250px;
+      font-size: 25px;
+      font-family:Impact, Haettenschweiler, 'Arial Narrow Bold';
+      font-weight: 500;
+}
+
+nav a{
+      color:black;
+      text-decoration: none;
+}
+.allheader nav a.currentpage{
+      color: white;
+      font-weight: lighter;
+      text-decoration:underline;
+}
+
+#topic_page{
+      background-image: url("https://cdn.mos.cms.futurecdn.net/DaGQyJPHCqKLa2QNweBzV7.jpg");
+      background-size: cover;
+}
+
+#topic_header{
+      padding: 20px;
+      color:black;
+      text-shadow:0 0 30px lightskyblue;
+      text-align: center;
+      font-family: Horizon;
+}
+
+.topic_subheading{
+      text-align: center;
+      font-family:Horizon;
+      color:white;
+      padding:25px;
+      text-shadow:0 0 10px rgb(66, 106, 180);
+      font-weight: 300;
+}
+
+#topic_page nav a{
+      text-shadow: 0 0 10px rgb(66, 106, 180);
+}
+
+.topic_first_part{  
+      display: flex;
+      justify-content: right;
+      align-items: center;
+      padding-top: 8px;
+      padding-right: 200px;
+      padding-left: 80px;
+      gap:20px;
+}
+
+.topic_second_part{  
+      display: flex;
+      justify-content: right;
+      align-items: center;
+      padding-top: 8px;
+      padding-right: 200px;
+      padding-left: 80px;
+      gap:30px;
+}
+
+.topic_third_part{  
+      display: flex;
+      justify-content: right;
+      align-items: center;
+      padding-top: 8px;
+      padding-right: 200px;
+      padding-left: 80px;
+      gap:20px;
+}
+
+.topic_fourth_part{  
+      display: flex;
+      justify-content: right;
+      align-items: center;
+      padding-top: 8px;
+      padding-right: 200px;
+      padding-left: 80px;
+      gap:20px;
+}
+
+.topic_SRM_image{
+      height: auto;
+      width:450px;
+}
+
+.topic_CDR_image{
+      height: auto;
+      width: 500px;;
+}
+
+.topic_when_image{
+      height: auto;
+      width: 500px;;
+}
+
+.topic_content img{
+      box-shadow: 0 0 25px black;
+}
+
+.topic_content h2{
+      font-family:inherit;
+      color: rgb(255, 255, 255);
+      text-align: center;
+}
+
+.topic_content p{
+      background-color:rgba(0, 0, 0, 0.5);
+      border-radius: 30px;
+      border-style: solid;
+      border-color:  black;
+      padding: 20px;
+      max-width:500px;
+      text-align: center;
+      font-size: large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: white;
+      text-shadow: 0 0 10px black;
+}
+
+#about_page{
+      background-image: url("https://files.123freevectors.com/wp-content/original/202282-abstract-navy-blue-star-background.jpg");
+      background-size: cover;
+}
+
+#about_header{
+      background-color:rgba(0,0,0,0.8);
+      padding: 20px;
+      color:cornsilk;
+      text-align: center;
+      font-family: Horizon;
+}
+
+.about_content{
+      margin-top: 40px;
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      padding-top: 8px;
+      padding-right: 200px;
+      padding-left: 80px;
+      gap:20px;
+}
+
+.about_the_author_text{
+      background-color:rgba(0, 0, 0, 0.7);
+      border-radius: 30px;
+      border-style: solid;
+      border-color: midnightblue;
+      padding: 20px;
+      max-width:500px;
+      text-align: center;
+      font-size: large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: cornsilk;
+}
+
+.why_this_topic_text {
+      background-color:rgba(0, 0, 0, 0.7);
+      border-radius: 30px;
+      border-style: solid;
+      border-color:midnightblue;
+      padding: 20px;
+      max-width:400px;
+      text-align: center;
+      font-size: large;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      color: cornsilk;
+}
+
+#about_page nav a {
+      text-shadow: 0 0 10px darkslateblue;
+}
+
+.sched{
+      text-align: center;
+      color:aliceblue;
+}
+
+.sched table, .sched th, .sched td{
+      margin:auto;
+      text-align: center;
+      border:2px solid black;
+      border-collapse:separate;
+      padding: 8px;
+      max-width: auto;
+      max-height: auto;
+}
+
