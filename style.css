@@ -111,7 +111,6 @@ nav a{
 
 .topic_second_part{  
       display: flex;
-      justify-content: right;
       align-items: center;
       padding-top: 8px;
       padding-right: 200px;
@@ -121,7 +120,6 @@ nav a{
 
 .topic_third_part{  
       display: flex;
-      justify-content: right;
       align-items: center;
       padding-top: 8px;
       padding-right: 200px;
@@ -131,7 +129,6 @@ nav a{
 
 .topic_fourth_part{  
       display: flex;
-      justify-content: right;
       align-items: center;
       padding-top: 8px;
       padding-right: 200px;
