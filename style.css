@@ -177,6 +177,9 @@ nav a{
       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
       color: white;
       text-shadow: 0 0 10px black;
+}
+
+.topic_content{
       align-items: center;
 }
 
