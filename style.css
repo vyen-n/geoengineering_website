@@ -84,12 +84,12 @@ nav a{
       color:black;
       text-shadow:0 0 30px lightskyblue;
       text-align: center;
-      font-family: Impact;
+      font-family: Horizon;
 }
 
 .topic_subheading{
       text-align: center;
-      font-family:Impact;
+      font-family: Horizon;
       color:white;
       padding:25px;
       text-shadow:0 0 10px rgb(66, 106, 180);
@@ -163,7 +163,7 @@ nav a{
 
 .topic_content p{
       background-color:rgba(0, 0, 0, 0.5);
-      justify-content: center;
+      justify-content:right;
       border-radius: 30px;
       border-style: solid;
       border-color:  black;
